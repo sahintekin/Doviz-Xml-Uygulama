@@ -1,0 +1,11 @@
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\bin\Debug\DovizProjeXml.exe.config
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\bin\Debug\DovizProjeXml.exe
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\bin\Debug\DovizProjeXml.pdb
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\obj\Debug\DovizProjeXml.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\obj\Debug\DovizProjeXml.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\obj\Debug\DovizProjeXml.Form1.resources
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\obj\Debug\DovizProjeXml.Properties.Resources.resources
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\obj\Debug\DovizProjeXml.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\obj\Debug\DovizProjeXml.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\obj\Debug\DovizProjeXml.exe
+C:\Users\ahmet\source\repos\DovizProjeXml\DovizProjeXml\obj\Debug\DovizProjeXml.pdb
